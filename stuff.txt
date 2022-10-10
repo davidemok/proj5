@@ -1,0 +1,60 @@
+Three principles of effective data communication:
+
+- graphs that make sense. Don't have unnecessary clutter
+- graphs that tell a clear story. 
+- An overall narrative for your data
+
+Order: The order the audience interprets a graph. This is different between people, but make sure that no matter what order they view a graph, it makes sense
+
+Hierarchy: Data is complicated. Graphs can be complicated. Make sure that you highlight the right part of the data to tell the story you want
+
+Relationships: Make sure that relationships between data is apparent based on how you design graphs
+Convention: though there is no convention, sometimes things are wrong - don't do this. 
+
+These basic rules give good guidelines for designing graphs so that the audience can understand what you are trying to convey in the most efficient way possible
+
+Graphs
+
+Comparison between values - bar chart
+
+Comparison to the whole - stacked column, tree map
+
+Change over time - line/area, column, slope
+
+Ranking data - slope
+
+Correlation - scatter, bubble
+
+Geographical charts - looks like a map, kinda confusing
+
+Measuring a target - gauge
+
+Showing Outliers - table
+
+“It is easy to lie with statistics. It is hard to tell the truth without it.” - Andrejs Dunkels
+
+What do you think is meant by this statement? Numbers can be easily manipulated to fit a certain narrative. However, numbers themselves are truth, and any truth involves numbers.
+
+Three examples:
+
+truncated bar graph that exaggerates the difference between a poll. Start it at zero and the difference is less apparent.
+
+3D graphs are the spawn of satan and using one will taint your data analyst soul by introducing a third dimension that doesn't do anything, making the graph harder to read. Solve by making it 2D.
+
+using anything that isn't a bar, such a triangle, which is an evil cousin to the 3D graph bc size comparisons are difficult. Just use bars.
+
+Pie charts are evil. If you see a pie chart, immediately judge the creator and take his/her job
+
+What is “visualization clutter?”
+anything that distracts from the main message of your visualization. (did someone say 3D?)
+
+What are the main components of a graph?
+lines, axis labels, data labels,  titles, axis names, legend
+
+What are three techniques you learned to make data visualizations more clear?
+Declutter - review every element of a graph and decide if it is necessary
+Color - change what you want the audience to group through color
+Format - create foreground and background through size of titles and labels
+
+How can the use of color affect the way your visualizations are understood?
+It can draw your audience's attention to the trend you want to highlight
